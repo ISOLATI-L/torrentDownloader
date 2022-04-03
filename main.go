@@ -1,11 +1,11 @@
 package main
 
 import (
-	"Torrent_downloader/Bencode"
-	"Torrent_downloader/torrent"
 	"encoding/json"
 	"fmt"
 	"os"
+	"torrentDownloader/Bencode"
+	"torrentDownloader/torrent"
 )
 
 func main() {

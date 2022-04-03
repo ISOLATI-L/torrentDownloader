@@ -1,8 +1,8 @@
 package torrent
 
 import (
-	"Torrent_downloader/Bencode"
 	"reflect"
+	"torrentDownloader/Bencode"
 )
 
 func (tf *TorrentFile) ToBobject() (Bencode.Bobject, error) {

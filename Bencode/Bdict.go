@@ -1,9 +1,9 @@
 package Bencode
 
 import (
-	"Torrent_downloader/orderedMap"
 	"bufio"
 	"io"
+	"torrentDownloader/orderedMap"
 )
 
 // type Bdict map[string]Bobject

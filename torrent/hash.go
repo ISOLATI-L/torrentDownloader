@@ -1,10 +1,10 @@
 package torrent
 
 import (
-	"Torrent_downloader/Bencode"
 	"bytes"
 	"crypto/sha1"
 	"errors"
+	"torrentDownloader/Bencode"
 )
 
 const SHALEN int = 20
